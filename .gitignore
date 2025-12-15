@@ -32,3 +32,6 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+enrichSonobuoyAccuracy.mat
+equilateralSonobuoyAccuracy.mat
+pair9nmiSonobuoyAccuracy.mat
